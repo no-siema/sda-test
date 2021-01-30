@@ -1,3 +1,3 @@
 # sda-test
 hgf
-Patryk elo
+*Patryk elo
